@@ -59,3 +59,11 @@
 </div>
 
 ###
+
+<h2 align="left">Feel free to reach out for collaboration and opportunities! 🌟</h2>
+
+###
+
+<p align="left">🔗 Connect with me:<br><br>LinkedIn: www.linkedin.com/in/sgadagi<br><br>Email: sgadagi3@gatech.edu</p>
+
+###
