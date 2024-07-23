@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Shreyas Gadagi and I'm an aspiring software developer</p>
+<p align="left">I'm an undergraduate researcher and aspiring software developer. </p>
 
 ###
 
