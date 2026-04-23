@@ -58,6 +58,6 @@
 
 ###
 
-<p align="left">🔗 Connect with me:<br><br>LinkedIn: www.linkedin.com/in/sgadagi<br><br>Email: sgadagi3@gatech.edu</p>
+<p align="left">🔗 Connect with me:<br><br>LinkedIn: www.linkedin.com/in/sgadagi<br><br>Email: shreyas.rg729@gmail.com</p>
 
 ###
